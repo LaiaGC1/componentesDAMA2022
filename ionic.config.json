@@ -1,0 +1,7 @@
+{
+  "name": "componentesDAMA2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
