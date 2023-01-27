@@ -63,6 +63,10 @@ const routes: Routes = [
     path: 'tabs',
     loadChildren: () => import('./pages/tabs/tabs.module').then( m => m.TabsPageModule)
   },
+  {
+    path: 'searchable-select',
+    loadChildren: () => import('./pages/searchable-select/searchable-select.module').then( m => m.SearchableSelectPageModule)
+  },
 ];
 
 @NgModule({

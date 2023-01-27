@@ -22,6 +22,12 @@ export class DataService {
     return this.http.get<ApiResult>(
       `${environment.baseUrl}movie/popular?api_key=${environment.apiKey}&page=${page}`);
   }
+
+  loadUsers(): Observable<any[]>{
+    return this.http.get<any[]>(
+      'http://randomuser.me/api/?results=100&seed=Progresa'
+    );
+  }
 }
 
 export interface ApiResult{
