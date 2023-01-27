@@ -1,0 +1,67 @@
+[
+  {
+    "nombre": "Alert",
+    "ruta": "/alert",
+    "icono": "american-football"
+  },
+  {
+    "nombre": "Action Sheet",
+    "ruta": "/action-sheet",
+    "icono": "logo-apple-appstore"
+  },
+  {
+    "nombre": "Grid y Buttons",
+    "ruta": "/grid-buttons",
+    "icono": "grid"
+  },
+  {
+    "nombre": "Avatar",
+    "ruta": "/avatar",
+    "icono": "beaker"
+  },
+  {
+    "nombre": "Cards",
+    "ruta": "/card",
+    "icono": "card"
+  },
+  {
+    "nombre": "Fab",
+    "ruta": "/fab",
+    "icono": "car"
+  },
+  {
+    "nombre": "Slides de Swiper",
+    "ruta": "/slides",
+    "icono": "albums"
+  },
+  {
+    "nombre": "Sliders Stories Instagram",
+    "ruta": "/slides2",
+    "icono": "logo-instagram"
+  },
+  {
+    "nombre": "Listas",
+    "ruta": "/listas",
+    "icono": "list"
+  },
+  {
+    "nombre": "Infinite Scroll",
+    "ruta": "/infinite-scroll",
+    "icono": "infinite"
+  },
+  {
+    "nombre": "Infinite Scroll 2",
+    "ruta": "/infinite-scroll2",
+    "icono": "infinite-outline"
+  },
+  {
+    "nombre": "Modal",
+    "ruta": "/modal",
+    "icono": "phone-portrait"
+  },
+  {
+    "nombre": "Tabs",
+    "ruta": "/tabs",
+    "icono": "cog"
+  }
+]
